@@ -1,5 +1,5 @@
 # Genji Discord Bot 
-## this disco
+## this discord bot was made on stream on [Twitch](https://www.twitch.tv/samueltheboi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2MDc5NTQ5XX0=
+eyJoaXN0b3J5IjpbMTY1MjI5MTIxOF19
 -->
