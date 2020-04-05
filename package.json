@@ -1,0 +1,16 @@
+{
+    "name": "yourlocalgenjis_twitch",
+    "version": "0.0.1",
+    "description": "",
+    "main": "yourlocalgenjis_twitchbot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "DevSamuelV",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^11.6.1",
+        "dotenv": "^8.2.0",
+        "twitch": "^4.0.8"
+    }
+}
